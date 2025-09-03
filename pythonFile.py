@@ -1,6 +1,8 @@
 import random
 
 completely_random_numbers = [random.randint(1,100) for i in range(20)]
+#Please dont add random shit to this bro...
+random_numbers = [rd.randint(1,100) for i in range(20)]
 
 # Who knows, might need these 3 variables one day
 
